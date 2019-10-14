@@ -1,3 +1,5 @@
+// to use this you should be able to run "$ cargo new borrowing-stuff"
+// then copy paste the contents of this file int your main.rs
 use std::io;
 use std::io::Write;
 
