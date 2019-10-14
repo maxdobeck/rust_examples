@@ -12,7 +12,7 @@ fn main() {
     println!("the value of the first number is {}", num1);
     println!("the value of the first number doubled is {}", double(num1));
 
-    // getting input and borrwing it in different functions
+    // getting input and borrowing it in different functions
     print!("{}", "Enter your text:".to_string());
 
     io::stdout().flush().unwrap();
